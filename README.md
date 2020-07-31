@@ -5,3 +5,7 @@ the player controls a ship with lasers by moving it horizontally across the bott
 aliens.
 
 ![GitHub Logo](/1.png)
+
+![GitHub Logo](/2.png)
+
+![GitHub Logo](/3.png)
